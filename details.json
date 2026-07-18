@@ -56,6 +56,23 @@
         "https://cdn.imgchest.com/files/3e091e1e95b7.jpg"
       ]
     }
+  },
+  "3": {
+      "title": "Bölüm",
+      "volume": "",
+      "groups": {
+        "Tuhaf Scans": [
+        "https://cdn.imgchest.com/files/14c5d80cb407.jpg",
+        "https://cdn.imgchest.com/files/22b0d61b2ba9.jpg",
+        "https://cdn.imgchest.com/files/62ef0a23340e.jpg",
+        "https://cdn.imgchest.com/files/70582187d312.jpg",
+        "https://cdn.imgchest.com/files/3094ca4ad9b5.jpg",
+        "https://cdn.imgchest.com/files/07f4549094f5.jpg",
+        "https://cdn.imgchest.com/files/b798fbdd8684.jpg",
+        "https://cdn.imgchest.com/files/e6c0f94666ac.jpg",
+        "https://cdn.imgchest.com/files/1072054adfe7.jpg"
+      ]
+    }
   }
 }
 }
